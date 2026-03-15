@@ -12,7 +12,7 @@ class Mobil {
   /// Method untuk mengubah status properti [mesinMenyala] menjadi true
   void nyalakanMesin() {
     mesinMenyala = true;
-    print('Brumm.. Mesin $merk $model sudah menyala!');
+    print('Duarrr.. Mesin $merk $model sudah menyala!');
   }
 
   /// Method untuk menampilkan informasi lengkap terkait entitas mobil
